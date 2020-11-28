@@ -1,0 +1,19 @@
+{
+  "name": "nde-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "devDependencies": {
+    "jconv": "^0.1.5",
+    "nodemon": "^1.11.0"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
